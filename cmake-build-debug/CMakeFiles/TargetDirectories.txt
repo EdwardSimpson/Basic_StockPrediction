@@ -1,0 +1,3 @@
+C:/Users/edwar/CLionProjects/AiPrj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/edwar/CLionProjects/AiPrj/cmake-build-debug/CMakeFiles/AiPrj.dir
+C:/Users/edwar/CLionProjects/AiPrj/cmake-build-debug/CMakeFiles/edit_cache.dir

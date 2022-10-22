@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/edwar/CLionProjects/AiPrj/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+cstring
+-
+cmath
+-
+
